@@ -1,6 +1,6 @@
-- 👋 Hi, I’m wa2he
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m 2hevva/王政/wangzheng
+- 👀 I’m interested in IPFS/Blockchain/Web3
+- 🌱 I’m currently learning about Blockchain needs technology
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me wechat：Nwa2heG email：achira@qq.com
 
