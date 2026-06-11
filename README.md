@@ -1,6 +1,6 @@
-# Wang Zheng / 2hevva
+# esuoi / arhcai
 
-Web3 / Blockchain developer based in China, open to remote engineering roles paid in USD.
+Web3 / Blockchain developer based in China, open to remote engineering roles paid in USDT.
 
 I am focused on building practical blockchain products: EVM smart contracts, Web3 frontends, IPFS-based storage, on-chain data tools, and backend automation.
 
