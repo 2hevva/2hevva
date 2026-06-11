@@ -38,7 +38,6 @@ I am building a focused Web3 portfolio around real remote-work use cases:
 ## Contact
 
 - Email: achira@qq.com
-- WeChat: Nwa2heG
 - GitHub: https://github.com/2hevva
 
 If you are hiring for a remote Web3 role, feel free to reach out.
